@@ -1,0 +1,1 @@
+vw /Users/wilsonpok/vw_titanic/data/train_titanic.vw -f /Users/wilsonpok/vw_titanic/model/model.vw --binary --passes 20 -c -q ff --adaptive --normalized --l1 0.00000001 --l2 0.0000001 -b 24
