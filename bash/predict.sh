@@ -1,0 +1,1 @@
+vw -d /Users/wilsonpok/vw_titanic/data/test_titanic.vw -t -i /Users/wilsonpok/vw_titanic/model/model.vw -p /Users/wilsonpok/vw_titanic/scores/preds_titanic.txt
